@@ -1,0 +1,9 @@
+{
+"name": "Node Interview Dev",
+"image": "mcr.microsoft.com/devcontainers/typescript-node:20",
+"postCreateCommand": "npm ci && npx prisma generate",
+"forwardPorts": [3000, 5432, 6379],
+"features": {
+"ghcr.io/devcontainers/features/docker-in-docker:2": {}
+}
+}
