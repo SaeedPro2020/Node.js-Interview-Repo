@@ -76,14 +76,14 @@ Integration tests	                Confirms API behavior
 
 ## Comments Added in Source Code
 
-- Each major file includes a header explaining:
+Each major file includes a header explaining:
 - Purpose of the file
 - Key patterns demonstrated
 - Interview talking points
 
 
 
-📎 Next Steps / Optional Extensions
+## 📎 Next Steps / Optional Extensions
 
 - Add Swagger docs
 - Add Kafka producer example
